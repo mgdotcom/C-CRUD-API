@@ -1,5 +1,5 @@
 # C-CRUD-API
-Simple CRUD API
+Simple CRUD API using ASP.NET Core
 
 
 First, create a new ASP.NET Core project in Visual Studio or your preferred IDE.
